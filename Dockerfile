@@ -1,6 +1,6 @@
 # start from CPL library and openfoam latest image and add in LAMMPS
 FROM cpllibrary/cpl-openfoam
-MAINTAINER Edward Smith <edward.smith05@imperial.ac.uk>
+MAINTAINER Edward Smith <edward.smith@brunel.ac.uk>
 
 #Number of processes to use in build
 ENV NPROCS=1
